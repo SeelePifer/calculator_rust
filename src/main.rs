@@ -1,5 +1,5 @@
 use core::panic;
-use std::{env::{args, Args}, fmt::format};
+use std::{env::{args}};
 fn main() {
 
     let mut args = args();
